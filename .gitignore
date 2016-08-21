@@ -1,6 +1,10 @@
 ## MacOS
 .DS_Store
 
+## Output
+resume.pdf
+
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
